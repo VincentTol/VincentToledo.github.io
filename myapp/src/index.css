@@ -1,0 +1,28 @@
+
+/* index.css */
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: linear-gradient(to bottom, #a9d3e0, #7d8fc9);
+  font-family: Arial, sans-serif;
+  color: rgb(61, 64, 66)
+}
+
+.flexContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  font-size: 2vw; /* Responsive font size */
+}
+
+.nameTitle {
+  font-size: 3rem;
+}
+
+.regTitle {
+  font-size: 2rem;
+}
+
+
